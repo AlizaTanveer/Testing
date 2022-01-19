@@ -15,6 +15,7 @@ public class SingleObject {
    public void showMessage(){
       System.out.println("Hello World!");
       System.out.println("It is very cold outside!");
+ System.out.println("People here are lunatic!");
       
    }
 }
