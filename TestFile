@@ -17,5 +17,7 @@ public class SingleObject {
       System.out.println("It is very cold outside!");
  System.out.println("People here are lunatic!");
    Syatem.out.println("Lame");   
+ System.out.println("It is very cold outside!");
+ System.out.println("It is very cold outside!");
    }
 }
