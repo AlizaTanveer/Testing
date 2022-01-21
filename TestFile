@@ -19,6 +19,10 @@ public class SingleObject {
    Syatem.out.println("Lame");   
  System.out.println("It is very cold outside!");
  System.out.println("It is very cold outside!");
+<<<<<<< HEAD
 bbbbbbbbbbbbbbbbbbb
+=======
+abbbbbbbb
+>>>>>>> ee36b92e54baee5cecf9a4d8e16e401090dbcfb3
    }
 }
